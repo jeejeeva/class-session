@@ -4,7 +4,6 @@ public static void main(String[] args)
 {
 
     Theatre theatre = new Theatre();
-    theatre.book_ticket(200);
-
+    theatre.ticket_booking(200);
 }
 }
